@@ -14,7 +14,7 @@
         <input type="text" name="city" placeholder="city" value="{{$data->city}}"/>
 
         <button type="submit">Update</button>
-        
+
       </form>
     </div>
   </div>
