@@ -13,7 +13,7 @@
         <input type="text" name="bloodgroup" placeholder="bloodgroup" value="{{$data->bloodgroup}}"/>
         <input type="text" name="city" placeholder="city" value="{{$data->city}}"/>
 
-        <button type="submit">Update</button>
+        <button type="submit">Edit</button>
 
       </form>
     </div>
